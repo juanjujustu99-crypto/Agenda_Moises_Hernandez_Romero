@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="agenda_de_contactos">AGENDA DE CONTACTOS</string>
+    <string name="agregar_contacto">Agregar contacto</string>
+    <string name="nuevo_contacto">NUEVO CONTACTO</string>
+    <string name="nombre">Nombre</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="guardar_contacto">GUARDAR CONTACTO</string>
+    <string name="ingresa_un_id_valido">Ingresa un ID valido</string>
+    <string name="contacto_guardado_correctamente">Contacto guardado correctamente</string>
+    <string name="ese_id_ya_existe_utiliza_otro">Ese ID ya existe. Utiliza otro.</string>
+    <string name="ingresa_el_nombre">Ingresa el nombre</string>
+</resources>
